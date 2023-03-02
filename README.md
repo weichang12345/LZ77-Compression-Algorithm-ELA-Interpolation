@@ -1,1 +1,1 @@
-# LZ77-Compression-Algorithm-ELA-Interpolation
+# LZ77-Compression-Algorithm-and-ELA-Interpolation
